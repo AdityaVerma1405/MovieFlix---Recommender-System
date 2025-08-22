@@ -97,10 +97,6 @@ MOVIE_RECOM_PROJ/
 -   **User Accounts & Watchlists:** Implement user authentication to allow for saved watchlists, ratings, and viewing history.
 -   **Improved Search:** Integrate Elasticsearch to provide faster and more advanced fuzzy search capabilities.
 
-## **8. About Me**
-
-* **Saiyam Jain**
-* **Connect with me:** [LinkedIn](https://www.linkedin.com/in/saiyam-jain-368a23294/) | [GitHub](https://github.com/saiyam-jain0)
 
 ## **9. License**
 
@@ -110,3 +106,4 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 -   **TMDb API** for providing the comprehensive movie metadata and images that power this application.
 -   The **NLTK** and **Scikit-learn** teams for their powerful and intuitive libraries.
+
