@@ -98,12 +98,13 @@ MOVIE_RECOM_PROJ/
 -   **Improved Search:** Integrate Elasticsearch to provide faster and more advanced fuzzy search capabilities.
 
 
-## **9. License**
+## **8. License**
 
 This project is licensed under the MIT License — feel free to use and modify.
 
-## **10. Acknowledgments**
+## **9. Acknowledgments**
 
 -   **TMDb API** for providing the comprehensive movie metadata and images that power this application.
 -   The **NLTK** and **Scikit-learn** teams for their powerful and intuitive libraries.
+
 
